@@ -1,0 +1,1294 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SE1745\\Final_Project_OJT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB3200A5-8E78-4FE6-ABB0-E1F3513F2C7D}|Project.WebAPI\\Project.WebAPI.csproj|d:\\se1745\\final_project_ojt\\project.webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB3200A5-8E78-4FE6-ABB0-E1F3513F2C7D}|Project.WebAPI\\Project.WebAPI.csproj|solutionrelative:project.webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{639ECD54-6D44-4EED-8629-A5734DBD881C}|Project.Business\\Project.Business.csproj|D:\\SE1745\\Final_Project_OJT\\project.business\\service\\auth\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{639ECD54-6D44-4EED-8629-A5734DBD881C}|Project.Business\\Project.Business.csproj|solutionrelative:project.business\\service\\auth\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{639ECD54-6D44-4EED-8629-A5734DBD881C}|Project.Business\\Project.Business.csproj|D:\\SE1745\\Final_Project_OJT\\project.business\\model\\loginresponseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{639ECD54-6D44-4EED-8629-A5734DBD881C}|Project.Business\\Project.Business.csproj|solutionrelative:project.business\\model\\loginresponseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{639ECD54-6D44-4EED-8629-A5734DBD881C}|Project.Business\\Project.Business.csproj|D:\\SE1745\\Final_Project_OJT\\project.business\\service\\candidate\\candidateservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{639ECD54-6D44-4EED-8629-A5734DBD881C}|Project.Business\\Project.Business.csproj|solutionrelative:project.business\\service\\candidate\\candidateservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29EF14FC-ACBC-4505-8343-0542A5D12647}|Project.Data\\Project.Data.csproj|D:\\SE1745\\Final_Project_OJT\\project.data\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29EF14FC-ACBC-4505-8343-0542A5D12647}|Project.Data\\Project.Data.csproj|solutionrelative:project.data\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{639ECD54-6D44-4EED-8629-A5734DBD881C}|Project.Business\\Project.Business.csproj|D:\\SE1745\\Final_Project_OJT\\project.business\\service\\auth\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{639ECD54-6D44-4EED-8629-A5734DBD881C}|Project.Business\\Project.Business.csproj|solutionrelative:project.business\\service\\auth\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{639ECD54-6D44-4EED-8629-A5734DBD881C}|Project.Business\\Project.Business.csproj|D:\\SE1745\\Final_Project_OJT\\project.business\\service\\events\\eventservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{639ECD54-6D44-4EED-8629-A5734DBD881C}|Project.Business\\Project.Business.csproj|solutionrelative:project.business\\service\\events\\eventservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{639ECD54-6D44-4EED-8629-A5734DBD881C}|Project.Business\\Project.Business.csproj|D:\\SE1745\\Final_Project_OJT\\project.business\\service\\user\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{639ECD54-6D44-4EED-8629-A5734DBD881C}|Project.Business\\Project.Business.csproj|solutionrelative:project.business\\service\\user\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{639ECD54-6D44-4EED-8629-A5734DBD881C}|Project.Business\\Project.Business.csproj|D:\\SE1745\\Final_Project_OJT\\project.business\\model\\candidatemodelsreviewimport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{639ECD54-6D44-4EED-8629-A5734DBD881C}|Project.Business\\Project.Business.csproj|solutionrelative:project.business\\model\\candidatemodelsreviewimport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB3200A5-8E78-4FE6-ABB0-E1F3513F2C7D}|Project.WebAPI\\Project.WebAPI.csproj|D:\\SE1745\\Final_Project_OJT\\project.webapi\\controllers\\candidatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB3200A5-8E78-4FE6-ABB0-E1F3513F2C7D}|Project.WebAPI\\Project.WebAPI.csproj|solutionrelative:project.webapi\\controllers\\candidatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29EF14FC-ACBC-4505-8343-0542A5D12647}|Project.Data\\Project.Data.csproj|D:\\SE1745\\Final_Project_OJT\\project.data\\entity\\candidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29EF14FC-ACBC-4505-8343-0542A5D12647}|Project.Data\\Project.Data.csproj|solutionrelative:project.data\\entity\\candidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{639ECD54-6D44-4EED-8629-A5734DBD881C}|Project.Business\\Project.Business.csproj|D:\\SE1745\\Final_Project_OJT\\project.business\\service\\user\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{639ECD54-6D44-4EED-8629-A5734DBD881C}|Project.Business\\Project.Business.csproj|solutionrelative:project.business\\service\\user\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{639ECD54-6D44-4EED-8629-A5734DBD881C}|Project.Business\\Project.Business.csproj|D:\\SE1745\\Final_Project_OJT\\project.business\\service\\candidate\\icandidateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{639ECD54-6D44-4EED-8629-A5734DBD881C}|Project.Business\\Project.Business.csproj|solutionrelative:project.business\\service\\candidate\\icandidateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB3200A5-8E78-4FE6-ABB0-E1F3513F2C7D}|Project.WebAPI\\Project.WebAPI.csproj|D:\\SE1745\\Final_Project_OJT\\project.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB3200A5-8E78-4FE6-ABB0-E1F3513F2C7D}|Project.WebAPI\\Project.WebAPI.csproj|solutionrelative:project.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29EF14FC-ACBC-4505-8343-0542A5D12647}|Project.Data\\Project.Data.csproj|D:\\SE1745\\Final_Project_OJT\\Project.Data\\Migrations\\20240806095256_IniDatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29EF14FC-ACBC-4505-8343-0542A5D12647}|Project.Data\\Project.Data.csproj|solutionrelative:Project.Data\\Migrations\\20240806095256_IniDatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB3200A5-8E78-4FE6-ABB0-E1F3513F2C7D}|Project.WebAPI\\Project.WebAPI.csproj|D:\\SE1745\\Final_Project_OJT\\project.webapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB3200A5-8E78-4FE6-ABB0-E1F3513F2C7D}|Project.WebAPI\\Project.WebAPI.csproj|solutionrelative:project.webapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{639ECD54-6D44-4EED-8629-A5734DBD881C}|Project.Business\\Project.Business.csproj|D:\\SE1745\\Final_Project_OJT\\project.business\\service\\base\\ibaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{639ECD54-6D44-4EED-8629-A5734DBD881C}|Project.Business\\Project.Business.csproj|solutionrelative:project.business\\service\\base\\ibaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{639ECD54-6D44-4EED-8629-A5734DBD881C}|Project.Business\\Project.Business.csproj|D:\\SE1745\\Final_Project_OJT\\project.business\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{639ECD54-6D44-4EED-8629-A5734DBD881C}|Project.Business\\Project.Business.csproj|solutionrelative:project.business\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB3200A5-8E78-4FE6-ABB0-E1F3513F2C7D}|Project.WebAPI\\Project.WebAPI.csproj|D:\\SE1745\\Final_Project_OJT\\project.webapi\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB3200A5-8E78-4FE6-ABB0-E1F3513F2C7D}|Project.WebAPI\\Project.WebAPI.csproj|solutionrelative:project.webapi\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB3200A5-8E78-4FE6-ABB0-E1F3513F2C7D}|Project.WebAPI\\Project.WebAPI.csproj|D:\\SE1745\\Final_Project_OJT\\project.webapi\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB3200A5-8E78-4FE6-ABB0-E1F3513F2C7D}|Project.WebAPI\\Project.WebAPI.csproj|solutionrelative:project.webapi\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{639ECD54-6D44-4EED-8629-A5734DBD881C}|Project.Business\\Project.Business.csproj|D:\\SE1745\\Final_Project_OJT\\project.business\\infrastructure\\repository\\audittrailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{639ECD54-6D44-4EED-8629-A5734DBD881C}|Project.Business\\Project.Business.csproj|solutionrelative:project.business\\infrastructure\\repository\\audittrailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{639ECD54-6D44-4EED-8629-A5734DBD881C}|Project.Business\\Project.Business.csproj|D:\\SE1745\\Final_Project_OJT\\project.business\\infrastructure\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{639ECD54-6D44-4EED-8629-A5734DBD881C}|Project.Business\\Project.Business.csproj|solutionrelative:project.business\\infrastructure\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{639ECD54-6D44-4EED-8629-A5734DBD881C}|Project.Business\\Project.Business.csproj|D:\\SE1745\\Final_Project_OJT\\project.business\\infrastructure\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{639ECD54-6D44-4EED-8629-A5734DBD881C}|Project.Business\\Project.Business.csproj|solutionrelative:project.business\\infrastructure\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{639ECD54-6D44-4EED-8629-A5734DBD881C}|Project.Business\\Project.Business.csproj|D:\\SE1745\\Final_Project_OJT\\project.business\\infrastructure\\repository\\rolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{639ECD54-6D44-4EED-8629-A5734DBD881C}|Project.Business\\Project.Business.csproj|solutionrelative:project.business\\infrastructure\\repository\\rolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{639ECD54-6D44-4EED-8629-A5734DBD881C}|Project.Business\\Project.Business.csproj|D:\\SE1745\\Final_Project_OJT\\project.business\\infrastructure\\repository\\eventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{639ECD54-6D44-4EED-8629-A5734DBD881C}|Project.Business\\Project.Business.csproj|solutionrelative:project.business\\infrastructure\\repository\\eventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{639ECD54-6D44-4EED-8629-A5734DBD881C}|Project.Business\\Project.Business.csproj|D:\\SE1745\\Final_Project_OJT\\project.business\\infrastructure\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{639ECD54-6D44-4EED-8629-A5734DBD881C}|Project.Business\\Project.Business.csproj|solutionrelative:project.business\\infrastructure\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB3200A5-8E78-4FE6-ABB0-E1F3513F2C7D}|Project.WebAPI\\Project.WebAPI.csproj|D:\\SE1745\\Final_Project_OJT\\project.webapi\\project.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BB3200A5-8E78-4FE6-ABB0-E1F3513F2C7D}|Project.WebAPI\\Project.WebAPI.csproj|solutionrelative:project.webapi\\project.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29EF14FC-ACBC-4505-8343-0542A5D12647}|Project.Data\\Project.Data.csproj|D:\\SE1745\\Final_Project_OJT\\project.data\\project.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{29EF14FC-ACBC-4505-8343-0542A5D12647}|Project.Data\\Project.Data.csproj|solutionrelative:project.data\\project.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{639ECD54-6D44-4EED-8629-A5734DBD881C}|Project.Business\\Project.Business.csproj|D:\\SE1745\\Final_Project_OJT\\project.business\\project.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{639ECD54-6D44-4EED-8629-A5734DBD881C}|Project.Business\\Project.Business.csproj|solutionrelative:project.business\\project.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB3200A5-8E78-4FE6-ABB0-E1F3513F2C7D}|Project.WebAPI\\Project.WebAPI.csproj|D:\\SE1745\\Final_Project_OJT\\project.webapi\\filter\\authtokendocumentfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB3200A5-8E78-4FE6-ABB0-E1F3513F2C7D}|Project.WebAPI\\Project.WebAPI.csproj|solutionrelative:project.webapi\\filter\\authtokendocumentfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB3200A5-8E78-4FE6-ABB0-E1F3513F2C7D}|Project.WebAPI\\Project.WebAPI.csproj|D:\\SE1745\\Final_Project_OJT\\project.webapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB3200A5-8E78-4FE6-ABB0-E1F3513F2C7D}|Project.WebAPI\\Project.WebAPI.csproj|solutionrelative:project.webapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29EF14FC-ACBC-4505-8343-0542A5D12647}|Project.Data\\Project.Data.csproj|D:\\SE1745\\Final_Project_OJT\\project.data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29EF14FC-ACBC-4505-8343-0542A5D12647}|Project.Data\\Project.Data.csproj|solutionrelative:project.data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{639ECD54-6D44-4EED-8629-A5734DBD881C}|Project.Business\\Project.Business.csproj|D:\\SE1745\\Final_Project_OJT\\project.business\\model\\candidatecreateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{639ECD54-6D44-4EED-8629-A5734DBD881C}|Project.Business\\Project.Business.csproj|solutionrelative:project.business\\model\\candidatecreateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{639ECD54-6D44-4EED-8629-A5734DBD881C}|Project.Business\\Project.Business.csproj|D:\\SE1745\\Final_Project_OJT\\project.business\\helper\\emailtemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{639ECD54-6D44-4EED-8629-A5734DBD881C}|Project.Business\\Project.Business.csproj|solutionrelative:project.business\\helper\\emailtemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29EF14FC-ACBC-4505-8343-0542A5D12647}|Project.Data\\Project.Data.csproj|D:\\SE1745\\Final_Project_OJT\\project.data\\entity\\audittrail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29EF14FC-ACBC-4505-8343-0542A5D12647}|Project.Data\\Project.Data.csproj|solutionrelative:project.data\\entity\\audittrail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29EF14FC-ACBC-4505-8343-0542A5D12647}|Project.Data\\Project.Data.csproj|D:\\SE1745\\Final_Project_OJT\\project.data\\entity\\updatehistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29EF14FC-ACBC-4505-8343-0542A5D12647}|Project.Data\\Project.Data.csproj|solutionrelative:project.data\\entity\\updatehistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29EF14FC-ACBC-4505-8343-0542A5D12647}|Project.Data\\Project.Data.csproj|D:\\SE1745\\Final_Project_OJT\\project.data\\entity\\sourcinghistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29EF14FC-ACBC-4505-8343-0542A5D12647}|Project.Data\\Project.Data.csproj|solutionrelative:project.data\\entity\\sourcinghistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29EF14FC-ACBC-4505-8343-0542A5D12647}|Project.Data\\Project.Data.csproj|D:\\SE1745\\Final_Project_OJT\\project.data\\entity\\remarkhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29EF14FC-ACBC-4505-8343-0542A5D12647}|Project.Data\\Project.Data.csproj|solutionrelative:project.data\\entity\\remarkhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{639ECD54-6D44-4EED-8629-A5734DBD881C}|Project.Business\\Project.Business.csproj|D:\\SE1745\\Final_Project_OJT\\project.business\\service\\paginiated\\paginiatedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{639ECD54-6D44-4EED-8629-A5734DBD881C}|Project.Business\\Project.Business.csproj|solutionrelative:project.business\\service\\paginiated\\paginiatedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB3200A5-8E78-4FE6-ABB0-E1F3513F2C7D}|Project.WebAPI\\Project.WebAPI.csproj|D:\\SE1745\\Final_Project_OJT\\project.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BB3200A5-8E78-4FE6-ABB0-E1F3513F2C7D}|Project.WebAPI\\Project.WebAPI.csproj|solutionrelative:project.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29EF14FC-ACBC-4505-8343-0542A5D12647}|Project.Data\\Project.Data.csproj|D:\\SE1745\\Final_Project_OJT\\project.data\\entity\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29EF14FC-ACBC-4505-8343-0542A5D12647}|Project.Data\\Project.Data.csproj|solutionrelative:project.data\\entity\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29EF14FC-ACBC-4505-8343-0542A5D12647}|Project.Data\\Project.Data.csproj|D:\\SE1745\\Final_Project_OJT\\project.data\\entity\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29EF14FC-ACBC-4505-8343-0542A5D12647}|Project.Data\\Project.Data.csproj|solutionrelative:project.data\\entity\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29EF14FC-ACBC-4505-8343-0542A5D12647}|Project.Data\\Project.Data.csproj|D:\\SE1745\\Final_Project_OJT\\project.data\\entity\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29EF14FC-ACBC-4505-8343-0542A5D12647}|Project.Data\\Project.Data.csproj|solutionrelative:project.data\\entity\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{639ECD54-6D44-4EED-8629-A5734DBD881C}|Project.Business\\Project.Business.csproj|D:\\SE1745\\Final_Project_OJT\\project.business\\service\\events\\ieventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{639ECD54-6D44-4EED-8629-A5734DBD881C}|Project.Business\\Project.Business.csproj|solutionrelative:project.business\\service\\events\\ieventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{639ECD54-6D44-4EED-8629-A5734DBD881C}|Project.Business\\Project.Business.csproj|D:\\SE1745\\Final_Project_OJT\\project.business\\model\\eventupdateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{639ECD54-6D44-4EED-8629-A5734DBD881C}|Project.Business\\Project.Business.csproj|solutionrelative:project.business\\model\\eventupdateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{639ECD54-6D44-4EED-8629-A5734DBD881C}|Project.Business\\Project.Business.csproj|D:\\SE1745\\Final_Project_OJT\\project.business\\service\\base\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{639ECD54-6D44-4EED-8629-A5734DBD881C}|Project.Business\\Project.Business.csproj|solutionrelative:project.business\\service\\base\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{639ECD54-6D44-4EED-8629-A5734DBD881C}|Project.Business\\Project.Business.csproj|D:\\SE1745\\Final_Project_OJT\\project.business\\model\\eventcreationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{639ECD54-6D44-4EED-8629-A5734DBD881C}|Project.Business\\Project.Business.csproj|solutionrelative:project.business\\model\\eventcreationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29EF14FC-ACBC-4505-8343-0542A5D12647}|Project.Data\\Project.Data.csproj|D:\\SE1745\\Final_Project_OJT\\project.data\\data\\projectdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29EF14FC-ACBC-4505-8343-0542A5D12647}|Project.Data\\Project.Data.csproj|solutionrelative:project.data\\data\\projectdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{639ECD54-6D44-4EED-8629-A5734DBD881C}|Project.Business\\Project.Business.csproj|D:\\SE1745\\Final_Project_OJT\\project.business\\model\\usereditviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{639ECD54-6D44-4EED-8629-A5734DBD881C}|Project.Business\\Project.Business.csproj|solutionrelative:project.business\\model\\usereditviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{639ECD54-6D44-4EED-8629-A5734DBD881C}|Project.Business\\Project.Business.csproj|D:\\SE1745\\Final_Project_OJT\\project.business\\service\\email\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{639ECD54-6D44-4EED-8629-A5734DBD881C}|Project.Business\\Project.Business.csproj|solutionrelative:project.business\\service\\email\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{639ECD54-6D44-4EED-8629-A5734DBD881C}|Project.Business\\Project.Business.csproj|D:\\SE1745\\Final_Project_OJT\\project.business\\model\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{639ECD54-6D44-4EED-8629-A5734DBD881C}|Project.Business\\Project.Business.csproj|solutionrelative:project.business\\model\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{639ECD54-6D44-4EED-8629-A5734DBD881C}|Project.Business\\Project.Business.csproj|D:\\SE1745\\Final_Project_OJT\\project.business\\model\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{639ECD54-6D44-4EED-8629-A5734DBD881C}|Project.Business\\Project.Business.csproj|solutionrelative:project.business\\model\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{639ECD54-6D44-4EED-8629-A5734DBD881C}|Project.Business\\Project.Business.csproj|D:\\SE1745\\Final_Project_OJT\\project.business\\model\\resetpasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{639ECD54-6D44-4EED-8629-A5734DBD881C}|Project.Business\\Project.Business.csproj|solutionrelative:project.business\\model\\resetpasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{639ECD54-6D44-4EED-8629-A5734DBD881C}|Project.Business\\Project.Business.csproj|D:\\SE1745\\Final_Project_OJT\\project.business\\model\\roleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{639ECD54-6D44-4EED-8629-A5734DBD881C}|Project.Business\\Project.Business.csproj|solutionrelative:project.business\\model\\roleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{639ECD54-6D44-4EED-8629-A5734DBD881C}|Project.Business\\Project.Business.csproj|D:\\SE1745\\Final_Project_OJT\\project.business\\model\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{639ECD54-6D44-4EED-8629-A5734DBD881C}|Project.Business\\Project.Business.csproj|solutionrelative:project.business\\model\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{639ECD54-6D44-4EED-8629-A5734DBD881C}|Project.Business\\Project.Business.csproj|D:\\SE1745\\Final_Project_OJT\\project.business\\model\\candidatesearchmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{639ECD54-6D44-4EED-8629-A5734DBD881C}|Project.Business\\Project.Business.csproj|solutionrelative:project.business\\model\\candidatesearchmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB3200A5-8E78-4FE6-ABB0-E1F3513F2C7D}|Project.WebAPI\\Project.WebAPI.csproj|D:\\SE1745\\Final_Project_OJT\\project.webapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB3200A5-8E78-4FE6-ABB0-E1F3513F2C7D}|Project.WebAPI\\Project.WebAPI.csproj|solutionrelative:project.webapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{639ECD54-6D44-4EED-8629-A5734DBD881C}|Project.Business\\Project.Business.csproj|D:\\SE1745\\Final_Project_OJT\\project.business\\model\\changepasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{639ECD54-6D44-4EED-8629-A5734DBD881C}|Project.Business\\Project.Business.csproj|solutionrelative:project.business\\model\\changepasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{639ECD54-6D44-4EED-8629-A5734DBD881C}|Project.Business\\Project.Business.csproj|D:\\SE1745\\Final_Project_OJT\\project.business\\model\\usercreateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{639ECD54-6D44-4EED-8629-A5734DBD881C}|Project.Business\\Project.Business.csproj|solutionrelative:project.business\\model\\usercreateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{639ECD54-6D44-4EED-8629-A5734DBD881C}|Project.Business\\Project.Business.csproj|D:\\SE1745\\Final_Project_OJT\\project.business\\infrastructure\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{639ECD54-6D44-4EED-8629-A5734DBD881C}|Project.Business\\Project.Business.csproj|solutionrelative:project.business\\infrastructure\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{639ECD54-6D44-4EED-8629-A5734DBD881C}|Project.Business\\Project.Business.csproj|D:\\SE1745\\Final_Project_OJT\\project.business\\infrastructure\\repository\\remarkhistoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{639ECD54-6D44-4EED-8629-A5734DBD881C}|Project.Business\\Project.Business.csproj|solutionrelative:project.business\\infrastructure\\repository\\remarkhistoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{639ECD54-6D44-4EED-8629-A5734DBD881C}|Project.Business\\Project.Business.csproj|D:\\SE1745\\Final_Project_OJT\\project.business\\infrastructure\\repository\\sourcinghistoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{639ECD54-6D44-4EED-8629-A5734DBD881C}|Project.Business\\Project.Business.csproj|solutionrelative:project.business\\infrastructure\\repository\\sourcinghistoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{639ECD54-6D44-4EED-8629-A5734DBD881C}|Project.Business\\Project.Business.csproj|D:\\SE1745\\Final_Project_OJT\\project.business\\infrastructure\\repository\\updatehistoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{639ECD54-6D44-4EED-8629-A5734DBD881C}|Project.Business\\Project.Business.csproj|solutionrelative:project.business\\infrastructure\\repository\\updatehistoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{639ECD54-6D44-4EED-8629-A5734DBD881C}|Project.Business\\Project.Business.csproj|D:\\SE1745\\Final_Project_OJT\\project.business\\infrastructure\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{639ECD54-6D44-4EED-8629-A5734DBD881C}|Project.Business\\Project.Business.csproj|solutionrelative:project.business\\infrastructure\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{639ECD54-6D44-4EED-8629-A5734DBD881C}|Project.Business\\Project.Business.csproj|D:\\SE1745\\Final_Project_OJT\\project.business\\infrastructure\\repository\\userrolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{639ECD54-6D44-4EED-8629-A5734DBD881C}|Project.Business\\Project.Business.csproj|solutionrelative:project.business\\infrastructure\\repository\\userrolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{639ECD54-6D44-4EED-8629-A5734DBD881C}|Project.Business\\Project.Business.csproj|D:\\SE1745\\Final_Project_OJT\\project.business\\infrastructure\\repository\\candidaterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{639ECD54-6D44-4EED-8629-A5734DBD881C}|Project.Business\\Project.Business.csproj|solutionrelative:project.business\\infrastructure\\repository\\candidaterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\SE1745\\Final_Project_OJT\\Project.Data\\Migrations\\20240802172324_IniDatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Project.Data\\Migrations\\20240802172324_IniDatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\SE1745\\Final_Project_OJT\\Project.Data\\Migrations\\20240802162643_IniDatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Project.Data\\Migrations\\20240802162643_IniDatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{639ECD54-6D44-4EED-8629-A5734DBD881C}|Project.Business\\Project.Business.csproj|D:\\SE1745\\Final_Project_OJT\\project.business\\model\\setroleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{639ECD54-6D44-4EED-8629-A5734DBD881C}|Project.Business\\Project.Business.csproj|solutionrelative:project.business\\model\\setroleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{639ECD54-6D44-4EED-8629-A5734DBD881C}|Project.Business\\Project.Business.csproj|D:\\SE1745\\Final_Project_OJT\\project.business\\model\\updateisactiveviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{639ECD54-6D44-4EED-8629-A5734DBD881C}|Project.Business\\Project.Business.csproj|solutionrelative:project.business\\model\\updateisactiveviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Truong cun\\.nuget\\packages\\epplus\\7.2.2\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|d:\\se1745\\final_project_ojt\\project.business\\service\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:project.business\\service\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|d:\\se1745\\final_project_ojt\\project.business\\service\\candidateservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:project.business\\service\\candidateservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|d:\\se1745\\final_project_ojt\\project.business\\service\\icandidateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:project.business\\service\\icandidateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\SE1745\\Final_Project_OJT\\project.business\\service\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:project.business\\service\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\SE1745\\Final_Project_OJT\\project.business\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:project.business\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\SE1745\\Final_Project_OJT\\project.business\\service\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:project.business\\service\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\SE1745\\Final_Project_OJT\\project.business\\service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:project.business\\service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\SE1745\\Final_Project_OJT\\project.business\\service\\iemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:project.business\\service\\iemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 70,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CandidateModelsReviewImport.cs",
+              "DocumentMoniker": "D:\\SE1745\\Final_Project_OJT\\Project.Business\\Model\\CandidateModelsReviewImport.cs",
+              "RelativeDocumentMoniker": "Project.Business\\Model\\CandidateModelsReviewImport.cs",
+              "ToolTip": "D:\\SE1745\\Final_Project_OJT\\Project.Business\\Model\\CandidateModelsReviewImport.cs",
+              "RelativeToolTip": "Project.Business\\Model\\CandidateModelsReviewImport.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAywBoAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T04:27:52.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\SE1745\\Final_Project_OJT\\Project.WebAPI\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "Project.WebAPI\\WeatherForecast.cs",
+              "ToolTip": "D:\\SE1745\\Final_Project_OJT\\Project.WebAPI\\WeatherForecast.cs",
+              "RelativeToolTip": "Project.WebAPI\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T06:57:41.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "D:\\SE1745\\Final_Project_OJT\\Project.Business\\Service\\Auth\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Project.Business\\Service\\Auth\\IAuthService.cs",
+              "ToolTip": "D:\\SE1745\\Final_Project_OJT\\Project.Business\\Service\\Auth\\IAuthService.cs",
+              "RelativeToolTip": "Project.Business\\Service\\Auth\\IAuthService.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAIAwwAoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T16:04:57.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20240806095256_IniDatabase.cs",
+              "DocumentMoniker": "D:\\SE1745\\Final_Project_OJT\\Project.Data\\Migrations\\20240806095256_IniDatabase.cs",
+              "RelativeDocumentMoniker": "Project.Data\\Migrations\\20240806095256_IniDatabase.cs",
+              "ToolTip": "D:\\SE1745\\Final_Project_OJT\\Project.Data\\Migrations\\20240806095256_IniDatabase.cs",
+              "RelativeToolTip": "Project.Data\\Migrations\\20240806095256_IniDatabase.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwH8AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T09:52:56.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "EmailTemplate.cs",
+              "DocumentMoniker": "D:\\SE1745\\Final_Project_OJT\\Project.Business\\Helper\\EmailTemplate.cs",
+              "RelativeDocumentMoniker": "Project.Business\\Helper\\EmailTemplate.cs",
+              "ToolTip": "D:\\SE1745\\Final_Project_OJT\\Project.Business\\Helper\\EmailTemplate.cs",
+              "RelativeToolTip": "Project.Business\\Helper\\EmailTemplate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T03:03:50.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\SE1745\\Final_Project_OJT\\Project.Business\\Service\\Auth\\AuthService.cs",
+              "RelativeDocumentMoniker": "Project.Business\\Service\\Auth\\AuthService.cs",
+              "ToolTip": "D:\\SE1745\\Final_Project_OJT\\Project.Business\\Service\\Auth\\AuthService.cs",
+              "RelativeToolTip": "Project.Business\\Service\\Auth\\AuthService.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAADwv2oAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T03:03:27.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "EmailSender.cs",
+              "DocumentMoniker": "D:\\SE1745\\Final_Project_OJT\\Project.Business\\Service\\Email\\EmailSender.cs",
+              "RelativeDocumentMoniker": "Project.Business\\Service\\Email\\EmailSender.cs",
+              "ToolTip": "D:\\SE1745\\Final_Project_OJT\\Project.Business\\Service\\Email\\EmailSender.cs",
+              "RelativeToolTip": "Project.Business\\Service\\Email\\EmailSender.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T03:03:18.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\SE1745\\Final_Project_OJT\\Project.Business\\Service\\User\\UserService.cs",
+              "RelativeDocumentMoniker": "Project.Business\\Service\\User\\UserService.cs",
+              "ToolTip": "D:\\SE1745\\Final_Project_OJT\\Project.Business\\Service\\User\\UserService.cs",
+              "RelativeToolTip": "Project.Business\\Service\\User\\UserService.cs",
+              "ViewState": "AQIAAJoAAAAAAAAAAADwv5QAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T15:02:07.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "PaginiatedList.cs",
+              "DocumentMoniker": "D:\\SE1745\\Final_Project_OJT\\Project.Business\\Service\\Paginiated\\PaginiatedList.cs",
+              "RelativeDocumentMoniker": "Project.Business\\Service\\Paginiated\\PaginiatedList.cs",
+              "ToolTip": "D:\\SE1745\\Final_Project_OJT\\Project.Business\\Service\\Paginiated\\PaginiatedList.cs",
+              "RelativeToolTip": "Project.Business\\Service\\Paginiated\\PaginiatedList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T14:25:21.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "CandidateSearchModel.cs",
+              "DocumentMoniker": "D:\\SE1745\\Final_Project_OJT\\Project.Business\\Model\\CandidateSearchModel.cs",
+              "RelativeDocumentMoniker": "Project.Business\\Model\\CandidateSearchModel.cs",
+              "ToolTip": "D:\\SE1745\\Final_Project_OJT\\Project.Business\\Model\\CandidateSearchModel.cs",
+              "RelativeToolTip": "Project.Business\\Model\\CandidateSearchModel.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T09:16:48.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CandidateServices.cs",
+              "DocumentMoniker": "D:\\SE1745\\Final_Project_OJT\\Project.Business\\Service\\Candidate\\CandidateServices.cs",
+              "RelativeDocumentMoniker": "Project.Business\\Service\\Candidate\\CandidateServices.cs",
+              "ToolTip": "D:\\SE1745\\Final_Project_OJT\\Project.Business\\Service\\Candidate\\CandidateServices.cs",
+              "RelativeToolTip": "Project.Business\\Service\\Candidate\\CandidateServices.cs",
+              "ViewState": "AQIAAGUAAAAAAAAAAAAmwI4AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T03:10:08.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ICandidateService.cs",
+              "DocumentMoniker": "D:\\SE1745\\Final_Project_OJT\\Project.Business\\Service\\Candidate\\ICandidateService.cs",
+              "RelativeDocumentMoniker": "Project.Business\\Service\\Candidate\\ICandidateService.cs",
+              "ToolTip": "D:\\SE1745\\Final_Project_OJT\\Project.Business\\Service\\Candidate\\ICandidateService.cs",
+              "RelativeToolTip": "Project.Business\\Service\\Candidate\\ICandidateService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA4AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T03:09:41.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "EventUpdateViewModel.cs",
+              "DocumentMoniker": "D:\\SE1745\\Final_Project_OJT\\Project.Business\\Model\\EventUpdateViewModel.cs",
+              "RelativeDocumentMoniker": "Project.Business\\Model\\EventUpdateViewModel.cs",
+              "ToolTip": "D:\\SE1745\\Final_Project_OJT\\Project.Business\\Model\\EventUpdateViewModel.cs",
+              "RelativeToolTip": "Project.Business\\Model\\EventUpdateViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T15:55:40.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\SE1745\\Final_Project_OJT\\Project.Business\\Service\\User\\IUserService.cs",
+              "RelativeDocumentMoniker": "Project.Business\\Service\\User\\IUserService.cs",
+              "ToolTip": "D:\\SE1745\\Final_Project_OJT\\Project.Business\\Service\\User\\IUserService.cs",
+              "RelativeToolTip": "Project.Business\\Service\\User\\IUserService.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAuwBkAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T14:54:26.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "EventCreationViewModel.cs",
+              "DocumentMoniker": "D:\\SE1745\\Final_Project_OJT\\Project.Business\\Model\\EventCreationViewModel.cs",
+              "RelativeDocumentMoniker": "Project.Business\\Model\\EventCreationViewModel.cs",
+              "ToolTip": "D:\\SE1745\\Final_Project_OJT\\Project.Business\\Model\\EventCreationViewModel.cs",
+              "RelativeToolTip": "Project.Business\\Model\\EventCreationViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBQAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T14:19:23.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CandidateCreateViewModel.cs",
+              "DocumentMoniker": "D:\\SE1745\\Final_Project_OJT\\Project.Business\\Model\\CandidateCreateViewModel.cs",
+              "RelativeDocumentMoniker": "Project.Business\\Model\\CandidateCreateViewModel.cs",
+              "ToolTip": "D:\\SE1745\\Final_Project_OJT\\Project.Business\\Model\\CandidateCreateViewModel.cs",
+              "RelativeToolTip": "Project.Business\\Model\\CandidateCreateViewModel.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAA2wBAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T14:19:19.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EventController.cs",
+              "DocumentMoniker": "D:\\SE1745\\Final_Project_OJT\\Project.WebAPI\\Controllers\\EventController.cs",
+              "RelativeDocumentMoniker": "Project.WebAPI\\Controllers\\EventController.cs",
+              "ToolTip": "D:\\SE1745\\Final_Project_OJT\\Project.WebAPI\\Controllers\\EventController.cs",
+              "RelativeToolTip": "Project.WebAPI\\Controllers\\EventController.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAYwCIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T14:19:01.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EventServices.cs",
+              "DocumentMoniker": "D:\\SE1745\\Final_Project_OJT\\Project.Business\\Service\\Events\\EventServices.cs",
+              "RelativeDocumentMoniker": "Project.Business\\Service\\Events\\EventServices.cs",
+              "ToolTip": "D:\\SE1745\\Final_Project_OJT\\Project.Business\\Service\\Events\\EventServices.cs",
+              "RelativeToolTip": "Project.Business\\Service\\Events\\EventServices.cs",
+              "ViewState": "AQIAAN0AAAAAAAAAAAAswBIAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T14:11:23.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "IEventService.cs",
+              "DocumentMoniker": "D:\\SE1745\\Final_Project_OJT\\Project.Business\\Service\\Events\\IEventService.cs",
+              "RelativeDocumentMoniker": "Project.Business\\Service\\Events\\IEventService.cs",
+              "ToolTip": "D:\\SE1745\\Final_Project_OJT\\Project.Business\\Service\\Events\\IEventService.cs",
+              "RelativeToolTip": "Project.Business\\Service\\Events\\IEventService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T14:11:20.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "EmailSender.cs",
+              "DocumentMoniker": "D:\\SE1745\\Final_Project_OJT\\Project.Business\\Service\\EmailSender.cs",
+              "RelativeDocumentMoniker": "Project.Business\\Service\\EmailSender.cs",
+              "ToolTip": "D:\\SE1745\\Final_Project_OJT\\Project.Business\\Service\\EmailSender.cs",
+              "RelativeToolTip": "Project.Business\\Service\\EmailSender.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAvwBwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T04:04:21.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CandidateController.cs",
+              "DocumentMoniker": "D:\\SE1745\\Final_Project_OJT\\Project.WebAPI\\Controllers\\CandidateController.cs",
+              "RelativeDocumentMoniker": "Project.WebAPI\\Controllers\\CandidateController.cs",
+              "ToolTip": "D:\\SE1745\\Final_Project_OJT\\Project.WebAPI\\Controllers\\CandidateController.cs",
+              "RelativeToolTip": "Project.WebAPI\\Controllers\\CandidateController.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAA7wC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T03:58:06.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "CandidateServices.cs",
+              "DocumentMoniker": "D:\\SE1745\\Final_Project_OJT\\Project.Business\\Service\\CandidateServices.cs",
+              "RelativeDocumentMoniker": "Project.Business\\Service\\CandidateServices.cs",
+              "ToolTip": "D:\\SE1745\\Final_Project_OJT\\Project.Business\\Service\\CandidateServices.cs",
+              "RelativeToolTip": "Project.Business\\Service\\CandidateServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T03:23:22.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "ICandidateService.cs",
+              "DocumentMoniker": "D:\\SE1745\\Final_Project_OJT\\Project.Business\\Service\\ICandidateService.cs",
+              "RelativeDocumentMoniker": "Project.Business\\Service\\ICandidateService.cs",
+              "ToolTip": "D:\\SE1745\\Final_Project_OJT\\Project.Business\\Service\\ICandidateService.cs",
+              "RelativeToolTip": "Project.Business\\Service\\ICandidateService.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAMwAsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T03:22:12.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "UserRoleRepository.cs",
+              "DocumentMoniker": "D:\\SE1745\\Final_Project_OJT\\Project.Business\\Infrastructure\\Repository\\UserRoleRepository.cs",
+              "RelativeDocumentMoniker": "Project.Business\\Infrastructure\\Repository\\UserRoleRepository.cs",
+              "ToolTip": "D:\\SE1745\\Final_Project_OJT\\Project.Business\\Infrastructure\\Repository\\UserRoleRepository.cs",
+              "RelativeToolTip": "Project.Business\\Infrastructure\\Repository\\UserRoleRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T03:05:38.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\SE1745\\Final_Project_OJT\\Project.Business\\Infrastructure\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Project.Business\\Infrastructure\\Repository\\UserRepository.cs",
+              "ToolTip": "D:\\SE1745\\Final_Project_OJT\\Project.Business\\Infrastructure\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "Project.Business\\Infrastructure\\Repository\\UserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T03:03:46.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "UpdateHistoryRepository.cs",
+              "DocumentMoniker": "D:\\SE1745\\Final_Project_OJT\\Project.Business\\Infrastructure\\Repository\\UpdateHistoryRepository.cs",
+              "RelativeDocumentMoniker": "Project.Business\\Infrastructure\\Repository\\UpdateHistoryRepository.cs",
+              "ToolTip": "D:\\SE1745\\Final_Project_OJT\\Project.Business\\Infrastructure\\Repository\\UpdateHistoryRepository.cs",
+              "RelativeToolTip": "Project.Business\\Infrastructure\\Repository\\UpdateHistoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T03:03:26.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "SourcingHistoryRepository.cs",
+              "DocumentMoniker": "D:\\SE1745\\Final_Project_OJT\\Project.Business\\Infrastructure\\Repository\\SourcingHistoryRepository.cs",
+              "RelativeDocumentMoniker": "Project.Business\\Infrastructure\\Repository\\SourcingHistoryRepository.cs",
+              "ToolTip": "D:\\SE1745\\Final_Project_OJT\\Project.Business\\Infrastructure\\Repository\\SourcingHistoryRepository.cs",
+              "RelativeToolTip": "Project.Business\\Infrastructure\\Repository\\SourcingHistoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T03:03:03.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "RemarkHistoryRepository.cs",
+              "DocumentMoniker": "D:\\SE1745\\Final_Project_OJT\\Project.Business\\Infrastructure\\Repository\\RemarkHistoryRepository.cs",
+              "RelativeDocumentMoniker": "Project.Business\\Infrastructure\\Repository\\RemarkHistoryRepository.cs",
+              "ToolTip": "D:\\SE1745\\Final_Project_OJT\\Project.Business\\Infrastructure\\Repository\\RemarkHistoryRepository.cs",
+              "RelativeToolTip": "Project.Business\\Infrastructure\\Repository\\RemarkHistoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T03:02:42.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AuditTrailRepository.cs",
+              "DocumentMoniker": "D:\\SE1745\\Final_Project_OJT\\Project.Business\\Infrastructure\\Repository\\AuditTrailRepository.cs",
+              "RelativeDocumentMoniker": "Project.Business\\Infrastructure\\Repository\\AuditTrailRepository.cs",
+              "ToolTip": "D:\\SE1745\\Final_Project_OJT\\Project.Business\\Infrastructure\\Repository\\AuditTrailRepository.cs",
+              "RelativeToolTip": "Project.Business\\Infrastructure\\Repository\\AuditTrailRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T03:02:16.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "EventRepository.cs",
+              "DocumentMoniker": "D:\\SE1745\\Final_Project_OJT\\Project.Business\\Infrastructure\\Repository\\EventRepository.cs",
+              "RelativeDocumentMoniker": "Project.Business\\Infrastructure\\Repository\\EventRepository.cs",
+              "ToolTip": "D:\\SE1745\\Final_Project_OJT\\Project.Business\\Infrastructure\\Repository\\EventRepository.cs",
+              "RelativeToolTip": "Project.Business\\Infrastructure\\Repository\\EventRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T03:00:54.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "RoleRepository.cs",
+              "DocumentMoniker": "D:\\SE1745\\Final_Project_OJT\\Project.Business\\Infrastructure\\Repository\\RoleRepository.cs",
+              "RelativeDocumentMoniker": "Project.Business\\Infrastructure\\Repository\\RoleRepository.cs",
+              "ToolTip": "D:\\SE1745\\Final_Project_OJT\\Project.Business\\Infrastructure\\Repository\\RoleRepository.cs",
+              "RelativeToolTip": "Project.Business\\Infrastructure\\Repository\\RoleRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T03:00:04.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "CandidateRepository.cs",
+              "DocumentMoniker": "D:\\SE1745\\Final_Project_OJT\\Project.Business\\Infrastructure\\Repository\\CandidateRepository.cs",
+              "RelativeDocumentMoniker": "Project.Business\\Infrastructure\\Repository\\CandidateRepository.cs",
+              "ToolTip": "D:\\SE1745\\Final_Project_OJT\\Project.Business\\Infrastructure\\Repository\\CandidateRepository.cs",
+              "RelativeToolTip": "Project.Business\\Infrastructure\\Repository\\CandidateRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T03:00:00.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "D:\\SE1745\\Final_Project_OJT\\Project.Business\\Infrastructure\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "Project.Business\\Infrastructure\\BaseRepository.cs",
+              "ToolTip": "D:\\SE1745\\Final_Project_OJT\\Project.Business\\Infrastructure\\BaseRepository.cs",
+              "RelativeToolTip": "Project.Business\\Infrastructure\\BaseRepository.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAowHMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T02:57:51.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IBaseRepository.cs",
+              "DocumentMoniker": "D:\\SE1745\\Final_Project_OJT\\Project.Business\\Infrastructure\\IBaseRepository.cs",
+              "RelativeDocumentMoniker": "Project.Business\\Infrastructure\\IBaseRepository.cs",
+              "ToolTip": "D:\\SE1745\\Final_Project_OJT\\Project.Business\\Infrastructure\\IBaseRepository.cs",
+              "RelativeToolTip": "Project.Business\\Infrastructure\\IBaseRepository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAIAxwA0AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T02:57:46.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "20240802172324_IniDatabase.cs",
+              "DocumentMoniker": "D:\\SE1745\\Final_Project_OJT\\Project.Data\\Migrations\\20240802172324_IniDatabase.cs",
+              "RelativeDocumentMoniker": "Project.Data\\Migrations\\20240802172324_IniDatabase.cs",
+              "ToolTip": "D:\\SE1745\\Final_Project_OJT\\Project.Data\\Migrations\\20240802172324_IniDatabase.cs",
+              "RelativeToolTip": "Project.Data\\Migrations\\20240802172324_IniDatabase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T17:23:24.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "20240802162643_IniDatabase.cs",
+              "DocumentMoniker": "D:\\SE1745\\Final_Project_OJT\\Project.Data\\Migrations\\20240802162643_IniDatabase.cs",
+              "RelativeDocumentMoniker": "Project.Data\\Migrations\\20240802162643_IniDatabase.cs",
+              "ToolTip": "D:\\SE1745\\Final_Project_OJT\\Project.Data\\Migrations\\20240802162643_IniDatabase.cs",
+              "RelativeToolTip": "Project.Data\\Migrations\\20240802162643_IniDatabase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T16:26:43.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "SourcingHistory.cs",
+              "DocumentMoniker": "D:\\SE1745\\Final_Project_OJT\\Project.Data\\Entity\\SourcingHistory.cs",
+              "RelativeDocumentMoniker": "Project.Data\\Entity\\SourcingHistory.cs",
+              "ToolTip": "D:\\SE1745\\Final_Project_OJT\\Project.Data\\Entity\\SourcingHistory.cs",
+              "RelativeToolTip": "Project.Data\\Entity\\SourcingHistory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T16:16:30.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Event.cs",
+              "DocumentMoniker": "D:\\SE1745\\Final_Project_OJT\\Project.Data\\Entity\\Event.cs",
+              "RelativeDocumentMoniker": "Project.Data\\Entity\\Event.cs",
+              "ToolTip": "D:\\SE1745\\Final_Project_OJT\\Project.Data\\Entity\\Event.cs",
+              "RelativeToolTip": "Project.Data\\Entity\\Event.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAawCEAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T16:13:53.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AuditTrail.cs",
+              "DocumentMoniker": "D:\\SE1745\\Final_Project_OJT\\Project.Data\\Entity\\AuditTrail.cs",
+              "RelativeDocumentMoniker": "Project.Data\\Entity\\AuditTrail.cs",
+              "ToolTip": "D:\\SE1745\\Final_Project_OJT\\Project.Data\\Entity\\AuditTrail.cs",
+              "RelativeToolTip": "Project.Data\\Entity\\AuditTrail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T16:11:38.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "RemarkHistory.cs",
+              "DocumentMoniker": "D:\\SE1745\\Final_Project_OJT\\Project.Data\\Entity\\RemarkHistory.cs",
+              "RelativeDocumentMoniker": "Project.Data\\Entity\\RemarkHistory.cs",
+              "ToolTip": "D:\\SE1745\\Final_Project_OJT\\Project.Data\\Entity\\RemarkHistory.cs",
+              "RelativeToolTip": "Project.Data\\Entity\\RemarkHistory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T16:11:10.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "UpdateHistory.cs",
+              "DocumentMoniker": "D:\\SE1745\\Final_Project_OJT\\Project.Data\\Entity\\UpdateHistory.cs",
+              "RelativeDocumentMoniker": "Project.Data\\Entity\\UpdateHistory.cs",
+              "ToolTip": "D:\\SE1745\\Final_Project_OJT\\Project.Data\\Entity\\UpdateHistory.cs",
+              "RelativeToolTip": "Project.Data\\Entity\\UpdateHistory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T16:10:20.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Candidate.cs",
+              "DocumentMoniker": "D:\\SE1745\\Final_Project_OJT\\Project.Data\\Entity\\Candidate.cs",
+              "RelativeDocumentMoniker": "Project.Data\\Entity\\Candidate.cs",
+              "ToolTip": "D:\\SE1745\\Final_Project_OJT\\Project.Data\\Entity\\Candidate.cs",
+              "RelativeToolTip": "Project.Data\\Entity\\Candidate.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAcwB0AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T16:04:02.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "ChangePasswordViewModel.cs",
+              "DocumentMoniker": "D:\\SE1745\\Final_Project_OJT\\Project.Business\\Model\\ChangePasswordViewModel.cs",
+              "RelativeDocumentMoniker": "Project.Business\\Model\\ChangePasswordViewModel.cs",
+              "ToolTip": "D:\\SE1745\\Final_Project_OJT\\Project.Business\\Model\\ChangePasswordViewModel.cs",
+              "RelativeToolTip": "Project.Business\\Model\\ChangePasswordViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T03:42:58.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginResponseViewModel.cs",
+              "DocumentMoniker": "D:\\SE1745\\Final_Project_OJT\\Project.Business\\Model\\LoginResponseViewModel.cs",
+              "RelativeDocumentMoniker": "Project.Business\\Model\\LoginResponseViewModel.cs",
+              "ToolTip": "D:\\SE1745\\Final_Project_OJT\\Project.Business\\Model\\LoginResponseViewModel.cs",
+              "RelativeToolTip": "Project.Business\\Model\\LoginResponseViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T03:42:57.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "D:\\SE1745\\Final_Project_OJT\\Project.Business\\Model\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "Project.Business\\Model\\RegisterViewModel.cs",
+              "ToolTip": "D:\\SE1745\\Final_Project_OJT\\Project.Business\\Model\\RegisterViewModel.cs",
+              "RelativeToolTip": "Project.Business\\Model\\RegisterViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T03:42:54.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "D:\\SE1745\\Final_Project_OJT\\Project.Business\\Model\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "Project.Business\\Model\\LoginViewModel.cs",
+              "ToolTip": "D:\\SE1745\\Final_Project_OJT\\Project.Business\\Model\\LoginViewModel.cs",
+              "RelativeToolTip": "Project.Business\\Model\\LoginViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T03:42:53.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "readme.txt",
+              "DocumentMoniker": "C:\\Users\\Truong cun\\.nuget\\packages\\epplus\\7.2.2\\readme.txt",
+              "ToolTip": "C:\\Users\\Truong cun\\.nuget\\packages\\epplus\\7.2.2\\readme.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-08-02T03:15:56.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\SE1745\\Final_Project_OJT\\Project.WebAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Project.WebAPI\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\SE1745\\Final_Project_OJT\\Project.WebAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Project.WebAPI\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T03:04:58.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "UpdateIsActiveViewModel.cs",
+              "DocumentMoniker": "D:\\SE1745\\Final_Project_OJT\\Project.Business\\Model\\UpdateIsActiveViewModel.cs",
+              "RelativeDocumentMoniker": "Project.Business\\Model\\UpdateIsActiveViewModel.cs",
+              "ToolTip": "D:\\SE1745\\Final_Project_OJT\\Project.Business\\Model\\UpdateIsActiveViewModel.cs",
+              "RelativeToolTip": "Project.Business\\Model\\UpdateIsActiveViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T09:52:49.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "SetRoleViewModel.cs",
+              "DocumentMoniker": "D:\\SE1745\\Final_Project_OJT\\Project.Business\\Model\\SetRoleViewModel.cs",
+              "RelativeDocumentMoniker": "Project.Business\\Model\\SetRoleViewModel.cs",
+              "ToolTip": "D:\\SE1745\\Final_Project_OJT\\Project.Business\\Model\\SetRoleViewModel.cs",
+              "RelativeToolTip": "Project.Business\\Model\\SetRoleViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T09:35:28.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "UserCreateViewModel.cs",
+              "DocumentMoniker": "D:\\SE1745\\Final_Project_OJT\\Project.Business\\Model\\UserCreateViewModel.cs",
+              "RelativeDocumentMoniker": "Project.Business\\Model\\UserCreateViewModel.cs",
+              "ToolTip": "D:\\SE1745\\Final_Project_OJT\\Project.Business\\Model\\UserCreateViewModel.cs",
+              "RelativeToolTip": "Project.Business\\Model\\UserCreateViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T09:19:34.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "RoleViewModel.cs",
+              "DocumentMoniker": "D:\\SE1745\\Final_Project_OJT\\Project.Business\\Model\\RoleViewModel.cs",
+              "RelativeDocumentMoniker": "Project.Business\\Model\\RoleViewModel.cs",
+              "ToolTip": "D:\\SE1745\\Final_Project_OJT\\Project.Business\\Model\\RoleViewModel.cs",
+              "RelativeToolTip": "Project.Business\\Model\\RoleViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T09:18:36.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RoleController.cs",
+              "DocumentMoniker": "D:\\SE1745\\Final_Project_OJT\\Project.WebAPI\\Controllers\\RoleController.cs",
+              "RelativeDocumentMoniker": "Project.WebAPI\\Controllers\\RoleController.cs",
+              "ToolTip": "D:\\SE1745\\Final_Project_OJT\\Project.WebAPI\\Controllers\\RoleController.cs",
+              "RelativeToolTip": "Project.WebAPI\\Controllers\\RoleController.cs",
+              "ViewState": "AQIAAKAAAAAAAAAAAAAAAKAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T09:07:10.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "D:\\SE1745\\Final_Project_OJT\\Project.Business\\Infrastructure\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Project.Business\\Infrastructure\\IUnitOfWork.cs",
+              "ToolTip": "D:\\SE1745\\Final_Project_OJT\\Project.Business\\Infrastructure\\IUnitOfWork.cs",
+              "RelativeToolTip": "Project.Business\\Infrastructure\\IUnitOfWork.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBMAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T07:33:23.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "D:\\SE1745\\Final_Project_OJT\\Project.Business\\Infrastructure\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Project.Business\\Infrastructure\\UnitOfWork.cs",
+              "ToolTip": "D:\\SE1745\\Final_Project_OJT\\Project.Business\\Infrastructure\\UnitOfWork.cs",
+              "RelativeToolTip": "Project.Business\\Infrastructure\\UnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T07:29:30.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IBaseService.cs",
+              "DocumentMoniker": "D:\\SE1745\\Final_Project_OJT\\Project.Business\\Service\\Base\\IBaseService.cs",
+              "RelativeDocumentMoniker": "Project.Business\\Service\\Base\\IBaseService.cs",
+              "ToolTip": "D:\\SE1745\\Final_Project_OJT\\Project.Business\\Service\\Base\\IBaseService.cs",
+              "RelativeToolTip": "Project.Business\\Service\\Base\\IBaseService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T07:24:21.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "BaseService.cs",
+              "DocumentMoniker": "D:\\SE1745\\Final_Project_OJT\\Project.Business\\Service\\Base\\BaseService.cs",
+              "RelativeDocumentMoniker": "Project.Business\\Service\\Base\\BaseService.cs",
+              "ToolTip": "D:\\SE1745\\Final_Project_OJT\\Project.Business\\Service\\Base\\BaseService.cs",
+              "RelativeToolTip": "Project.Business\\Service\\Base\\BaseService.cs",
+              "ViewState": "AQIAAIsAAAAAAAAAAAAowKQAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T07:25:24.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\SE1745\\Final_Project_OJT\\Project.WebAPI\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Project.WebAPI\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\SE1745\\Final_Project_OJT\\Project.WebAPI\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Project.WebAPI\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAYwCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T07:04:48.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\SE1745\\Final_Project_OJT\\Project.Business\\Service\\IUserService.cs",
+              "RelativeDocumentMoniker": "Project.Business\\Service\\IUserService.cs",
+              "ToolTip": "D:\\SE1745\\Final_Project_OJT\\Project.Business\\Service\\IUserService.cs",
+              "RelativeToolTip": "Project.Business\\Service\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T07:02:58.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\SE1745\\Final_Project_OJT\\Project.Business\\Service\\UserService.cs",
+              "RelativeDocumentMoniker": "Project.Business\\Service\\UserService.cs",
+              "ToolTip": "D:\\SE1745\\Final_Project_OJT\\Project.Business\\Service\\UserService.cs",
+              "RelativeToolTip": "Project.Business\\Service\\UserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGMAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T07:02:55.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "UserEditViewModel.cs",
+              "DocumentMoniker": "D:\\SE1745\\Final_Project_OJT\\Project.Business\\Model\\UserEditViewModel.cs",
+              "RelativeDocumentMoniker": "Project.Business\\Model\\UserEditViewModel.cs",
+              "ToolTip": "D:\\SE1745\\Final_Project_OJT\\Project.Business\\Model\\UserEditViewModel.cs",
+              "RelativeToolTip": "Project.Business\\Model\\UserEditViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T06:59:53.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "UserViewModel.cs",
+              "DocumentMoniker": "D:\\SE1745\\Final_Project_OJT\\Project.Business\\Model\\UserViewModel.cs",
+              "RelativeDocumentMoniker": "Project.Business\\Model\\UserViewModel.cs",
+              "ToolTip": "D:\\SE1745\\Final_Project_OJT\\Project.Business\\Model\\UserViewModel.cs",
+              "RelativeToolTip": "Project.Business\\Model\\UserViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T06:59:31.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "ResetPasswordViewModel.cs",
+              "DocumentMoniker": "D:\\SE1745\\Final_Project_OJT\\Project.Business\\Model\\ResetPasswordViewModel.cs",
+              "RelativeDocumentMoniker": "Project.Business\\Model\\ResetPasswordViewModel.cs",
+              "ToolTip": "D:\\SE1745\\Final_Project_OJT\\Project.Business\\Model\\ResetPasswordViewModel.cs",
+              "RelativeToolTip": "Project.Business\\Model\\ResetPasswordViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T03:48:37.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "D:\\SE1745\\Final_Project_OJT\\Project.Business\\Service\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Project.Business\\Service\\IAuthService.cs",
+              "ToolTip": "D:\\SE1745\\Final_Project_OJT\\Project.Business\\Service\\IAuthService.cs",
+              "RelativeToolTip": "Project.Business\\Service\\IAuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T03:48:01.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\SE1745\\Final_Project_OJT\\Project.Business\\Service\\AuthService.cs",
+              "RelativeDocumentMoniker": "Project.Business\\Service\\AuthService.cs",
+              "ToolTip": "D:\\SE1745\\Final_Project_OJT\\Project.Business\\Service\\AuthService.cs",
+              "RelativeToolTip": "Project.Business\\Service\\AuthService.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAQwBEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T03:17:07.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "IEmailSender.cs",
+              "DocumentMoniker": "D:\\SE1745\\Final_Project_OJT\\Project.Business\\Service\\IEmailSender.cs",
+              "RelativeDocumentMoniker": "Project.Business\\Service\\IEmailSender.cs",
+              "ToolTip": "D:\\SE1745\\Final_Project_OJT\\Project.Business\\Service\\IEmailSender.cs",
+              "RelativeToolTip": "Project.Business\\Service\\IEmailSender.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T14:08:23.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AuthTokenDocumentFilter.cs",
+              "DocumentMoniker": "D:\\SE1745\\Final_Project_OJT\\Project.WebAPI\\Filter\\AuthTokenDocumentFilter.cs",
+              "RelativeDocumentMoniker": "Project.WebAPI\\Filter\\AuthTokenDocumentFilter.cs",
+              "ToolTip": "D:\\SE1745\\Final_Project_OJT\\Project.WebAPI\\Filter\\AuthTokenDocumentFilter.cs",
+              "RelativeToolTip": "Project.WebAPI\\Filter\\AuthTokenDocumentFilter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T14:05:55.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\SE1745\\Final_Project_OJT\\Project.WebAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Project.WebAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\SE1745\\Final_Project_OJT\\Project.WebAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Project.WebAPI\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAwwCMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T13:47:46.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "D:\\SE1745\\Final_Project_OJT\\Project.Data\\Entity\\UserRole.cs",
+              "RelativeDocumentMoniker": "Project.Data\\Entity\\UserRole.cs",
+              "ToolTip": "D:\\SE1745\\Final_Project_OJT\\Project.Data\\Entity\\UserRole.cs",
+              "RelativeToolTip": "Project.Data\\Entity\\UserRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T13:25:58.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\SE1745\\Final_Project_OJT\\Project.Data\\Entity\\User.cs",
+              "RelativeDocumentMoniker": "Project.Data\\Entity\\User.cs",
+              "ToolTip": "D:\\SE1745\\Final_Project_OJT\\Project.Data\\Entity\\User.cs",
+              "RelativeToolTip": "Project.Data\\Entity\\User.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAcwBQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T13:25:57.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Role.cs",
+              "DocumentMoniker": "D:\\SE1745\\Final_Project_OJT\\Project.Data\\Entity\\Role.cs",
+              "RelativeDocumentMoniker": "Project.Data\\Entity\\Role.cs",
+              "ToolTip": "D:\\SE1745\\Final_Project_OJT\\Project.Data\\Entity\\Role.cs",
+              "RelativeToolTip": "Project.Data\\Entity\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T13:25:54.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "ProjectDbContext.cs",
+              "DocumentMoniker": "D:\\SE1745\\Final_Project_OJT\\Project.Data\\Data\\ProjectDbContext.cs",
+              "RelativeDocumentMoniker": "Project.Data\\Data\\ProjectDbContext.cs",
+              "ToolTip": "D:\\SE1745\\Final_Project_OJT\\Project.Data\\Data\\ProjectDbContext.cs",
+              "RelativeToolTip": "Project.Data\\Data\\ProjectDbContext.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAIA0wCIAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T13:25:28.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\SE1745\\Final_Project_OJT\\Project.WebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "Project.WebAPI\\appsettings.json",
+              "ToolTip": "D:\\SE1745\\Final_Project_OJT\\Project.WebAPI\\appsettings.json",
+              "RelativeToolTip": "Project.WebAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-30T13:24:30.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SE1745\\Final_Project_OJT\\Project.WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Project.WebAPI\\Program.cs",
+              "ToolTip": "D:\\SE1745\\Final_Project_OJT\\Project.WebAPI\\Program.cs",
+              "RelativeToolTip": "Project.WebAPI\\Program.cs",
+              "ViewState": "AQIAAFwAAAAAAAAAAIAwwFkAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T13:24:29.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Project.Business.csproj",
+              "DocumentMoniker": "D:\\SE1745\\Final_Project_OJT\\Project.Business\\Project.Business.csproj",
+              "RelativeDocumentMoniker": "Project.Business\\Project.Business.csproj",
+              "ToolTip": "D:\\SE1745\\Final_Project_OJT\\Project.Business\\Project.Business.csproj",
+              "RelativeToolTip": "Project.Business\\Project.Business.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-30T13:24:01.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Project.WebAPI.csproj",
+              "DocumentMoniker": "D:\\SE1745\\Final_Project_OJT\\Project.WebAPI\\Project.WebAPI.csproj",
+              "RelativeDocumentMoniker": "Project.WebAPI\\Project.WebAPI.csproj",
+              "ToolTip": "D:\\SE1745\\Final_Project_OJT\\Project.WebAPI\\Project.WebAPI.csproj",
+              "RelativeToolTip": "Project.WebAPI\\Project.WebAPI.csproj",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-30T13:23:31.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Project.Data.csproj",
+              "DocumentMoniker": "D:\\SE1745\\Final_Project_OJT\\Project.Data\\Project.Data.csproj",
+              "RelativeDocumentMoniker": "Project.Data\\Project.Data.csproj",
+              "ToolTip": "D:\\SE1745\\Final_Project_OJT\\Project.Data\\Project.Data.csproj",
+              "RelativeToolTip": "Project.Data\\Project.Data.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-30T13:23:18.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\SE1745\\Final_Project_OJT\\Project.Business\\Class1.cs",
+              "RelativeDocumentMoniker": "Project.Business\\Class1.cs",
+              "ToolTip": "D:\\SE1745\\Final_Project_OJT\\Project.Business\\Class1.cs",
+              "RelativeToolTip": "Project.Business\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T13:23:07.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\SE1745\\Final_Project_OJT\\Project.Data\\Class1.cs",
+              "RelativeDocumentMoniker": "Project.Data\\Class1.cs",
+              "ToolTip": "D:\\SE1745\\Final_Project_OJT\\Project.Data\\Class1.cs",
+              "RelativeToolTip": "Project.Data\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T13:22:45.811Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
